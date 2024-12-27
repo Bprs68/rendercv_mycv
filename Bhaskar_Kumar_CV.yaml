@@ -1,0 +1,108 @@
+cv:
+  name: Bhaskar Kumar
+  location: Mumbai, India
+  email: bhaskards6869@gmail.com
+  phone: tel:+919801715693
+  social_networks:
+    - network: LinkedIn
+      username: bhaskar-kumar-
+    - network: GitHub
+      username: bprs68
+
+  sections:
+    summary:
+      - 'Results-driven Data Scientist with expertise in AI and machine learning, delivering impactful solutions at Blenheim Chalcot. Track record of increasing customer acquisition by 23% through AI-powered solutions and reducing assessment times by 95% using Generative AI. Proficient in Python, SQL, Azure ML, and deep learning frameworks, with strong experience in building end-to-end ML pipelines and implementing LLM-based solutions.'
+
+    experience:
+      - company: Blenheim Chalcot India
+        position: Associate Data Scientist
+        location: Mumbai, India
+        start_date: 2023-06
+        end_date: present
+        highlights:
+          - Led development of AI-powered Credit Coach system, driving 23% increase in customer acquisition and 31% improvement in retention rates
+          - Architected and deployed an enterprise-scale chatbot using OpenAI GPT API, streamlining Certinia ERP documentation access for 15+ support team members
+          - Developed automated data processing pipelines, reducing manual effort by 40% and improving data accuracy by 25%
+          - Collaborated with cross-functional teams to implement ML solutions across multiple portfolio companies
+          - Implemented real-time monitoring system for ML models, achieving 99.5% model availability and reducing incident response time by 60%
+
+      - company: Accelerate People
+        position: Data Scientist
+        location: Mumbai, India
+        start_date: 2023-12
+        end_date: present
+        highlights:
+          - Engineered AI-assisted assessment platform for UK apprenticeship standards, reducing evaluation time from 3 days to 3 hours
+          - Designed and optimized Azure Data Factory ETL pipelines, ensuring 99.9% data processing reliability
+          - Implemented automated feedback generation system using LLMs, improving platform efficiency by 15%
+          - Created comprehensive A/B testing framework, leading to 33% improvement in model performance
+          - Developed automated data quality monitoring system, reducing data inconsistencies by 45% and improving assessment accuracy by 28%
+
+    education:
+      - institution: Indira Gandhi National Open University
+        area: Economics
+        degree: Master of Arts
+        start_date: 2024
+        end_date: present
+        
+      - institution: Lalit Narayan Mithila University
+        area: Accounting and Finance
+        degree: Bachelor of Commerce (Honours)
+        start_date: 2020
+        end_date: 2023
+
+    technical_skills:
+      - label: Languages & Tools
+        details: Python, SQL, R, Git, CI/CD
+      - label: Cloud & Infrastructure
+        details: Azure ML, Azure Data Factory, Azure Cloud, Azure AI Search
+      - label: AI & Machine Learning
+        details: PyTorch, TensorFlow, Langchain, RAG, LLM Fine-tuning, Prompt Engineering, Machine Learning, Statistical Analysis
+      - label: Data & Analytics
+        details: PostgreSQL, MongoDB, PowerBI, Tableau, AWS QuickSight, Google Looker Studio
+
+    certifications:
+      - name: Full Stack Data Science (AlmaBetter)
+        issuer: AlmaBetter
+      - name: The Non-Technical Skills of Effective Data Scientists (LinkedIN)
+        issuer: LinkedIn
+      - name: Machine Learning (Standford Online)
+        issuer: Google
+      - name: Generative AI for Large Language Models (DeepLearning.AI)
+        issuer: DeepLearning.AI
+  
+    honors_awards:
+      - name: Quarterly Star Performer Award
+        date: 2024
+      - name: Python & SQL Gold Badge (Hackerrank)
+
+design:
+  theme: engineeringresumes
+  font: Charter
+  font_size: 10pt
+  page_size: letterpaper
+  color: black
+  disable_external_link_icons: true
+  disable_page_numbering: true
+  text_alignment: left-aligned
+  margins:
+    page:
+      top: 1.5 cm
+      bottom: 1.2 cm
+      left: 1.8 cm
+      right: 1.8 cm
+    section_title:
+      top: 0.2 cm
+      bottom: 0.15 cm
+    entry_area:
+      left_and_right: 0 cm
+      vertical_between: 0.15 cm
+      date_and_location_width: 4.2 cm
+    highlights_area:
+      top: 0.12 cm
+      left: 0 cm
+      vertical_between_bullet_points: 0.12 cm
+    header:
+      vertical_between_name_and_connections: 3 pt
+      bottom: 3 pt
+      horizontal_between_connections: 8 pt
