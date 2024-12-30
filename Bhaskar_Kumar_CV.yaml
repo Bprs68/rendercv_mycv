@@ -53,7 +53,7 @@ cv:
 
     technical_skills:
       - label: Languages & Tools
-        details: Python, SQL, R, Git, CI/CD
+        details: Python, SQL, R, Git, CI/CD, Docker, Power Platform (Power Automate, Power Apps), JIRA
       - label: Cloud & Infrastructure
         details: Azure ML, Azure Data Factory, Azure Cloud, Azure AI Search
       - label: AI & Machine Learning
