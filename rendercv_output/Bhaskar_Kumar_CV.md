@@ -45,8 +45,8 @@ Results-driven Data Scientist with expertise in AI and machine learning, deliver
 
 # Technical Skills
 
-- Languages & Tools: Python, SQL, R, Git, CI/CD
-- Cloud & Infrastructure: Azure ML, Azure Data Factory, Azure Cloud, Azure AI Search
+- Languages & Tools: Python, SQL, R, Git, CI/CD, Flask & REST API, Power Platform (Power Automate, Power Apps)
+- Cloud & Infrastructure: Azure (Azure ML, Azure Data Factory, Azure AI Search), Docker, AWS (Lambda, S3, etc.)
 - AI & Machine Learning: PyTorch, TensorFlow, Langchain, RAG, LLM Fine-tuning, Prompt Engineering, Machine Learning, Statistical Analysis
 - Data & Analytics: PostgreSQL, MongoDB, PowerBI, Tableau, AWS QuickSight, Google Looker Studio
 # Certifications
